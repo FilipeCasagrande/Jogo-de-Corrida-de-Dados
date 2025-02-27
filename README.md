@@ -11,11 +11,11 @@ entre 1 e 6).
  O jogo exibe a posição atual do jogador e do computador após cada rodada. 
 3. Eventos Especiais: 
  Para tornar o jogo mais interessante, algumas posições na pista podem ter eventos especiais: 
-■ Avanço extra: Se o competidor parar em uma posição específica (ex.: 5, 10, 15), ele 
+ Avanço extra: Se o competidor parar em uma posição específica (ex.: 5, 10, 15), ele 
 avança +3 casas. 
-■ Recuo: Se o competidor parar em outra posição específica (ex.: 7, 13, 20), ele recua -2 
+ Recuo: Se o competidor parar em outra posição específica (ex.: 7, 13, 20), ele recua -2 
 casas. 
-■ Rodada extra: Se o competidor tirar 6 no dado, ele ganha uma rodada extra. 
+ Rodada extra: Se o competidor tirar 6 no dado, ele ganha uma rodada extra. 
 4. Condição de Vitória: 
  O primeiro competidor a alcançar ou ultrapassar a posição final (ex.: 30) vence o jogo. 
 5. Interação: 
